@@ -1,0 +1,64 @@
+
+body{
+
+background: image("../../bootstrap/image/in.jpg");
+}
+
+.container{
+    width:750px;
+    height: 400px;
+    background-color: #077054 ;
+    margin: 100px auto;
+    padding: 10px;
+}
+
+.container_left{
+
+    width:300px;
+    height: 500px;
+    margin:10px 0 5px 40px;
+    background: transparent;
+    float: left;
+}
+
+.container_right{
+
+    width:360px;
+    height: 500px;
+    margin:10px 5px 5px 5px;
+    background: transparent;
+    float: right;
+}
+
+.container_right input,.container_left input{
+
+    height:45px;
+    width:180px;
+    background-color:#484848;
+    padding: 15px 20px 20px 20px;
+    margin: 20px;
+    font-family: 'Lobster', helvetica, arial;
+    font-size: 20px;
+    text-align: left;
+    color:#ffffff;
+    text-shadow: aliceblue;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+
+
+.container_right img,.container_left img{
+
+    height:40px;
+    width:40px;
+    background-color:#484848;
+    margin: 20px 0 20px 20px;
+    float: left;
+    border-radius: 40%;
+
+}
+
+
+

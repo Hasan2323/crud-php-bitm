@@ -11,7 +11,7 @@
   },
   "require":{
 
-    "mpdf/mpdf":"v6.1.4",
+    "mpdf/mpdf":"v8.1.6",
     "phpoffice/phpexcel":"1.8.1",
     "phpmailer/phpmailer":"v6.0.1"
 
